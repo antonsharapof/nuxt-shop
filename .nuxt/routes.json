@@ -1,0 +1,30 @@
+[
+  {
+    "name": "category",
+    "path": "/category",
+    "component": "D:\\\\frontend-projects\\\\Led\\\\nuxt-shop\\\\pages\\\\category\\\\index.vue",
+    "chunkName": "pages/category/index",
+    "_name": "_409278f4"
+  },
+  {
+    "name": "category-id",
+    "path": "/category/:id",
+    "component": "D:\\\\frontend-projects\\\\Led\\\\nuxt-shop\\\\pages\\\\category\\\\_id.vue",
+    "chunkName": "pages/category/_id",
+    "_name": "_430bef6e"
+  },
+  {
+    "name": "product-id",
+    "path": "/product/:id?",
+    "component": "D:\\\\frontend-projects\\\\Led\\\\nuxt-shop\\\\pages\\\\product\\\\_id.vue",
+    "chunkName": "pages/product/_id",
+    "_name": "_42fe15a9"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\frontend-projects\\\\Led\\\\nuxt-shop\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_afd26178"
+  }
+]

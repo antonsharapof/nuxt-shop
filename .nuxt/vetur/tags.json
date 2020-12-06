@@ -1,0 +1,50 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/layout/footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/layout/footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/layout/header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from components/layout/header.vue"
+  },
+  "Banner": {
+    "description": "Auto imported from components/indexpage/banner.vue"
+  },
+  "LazyBanner": {
+    "description": "Auto imported from components/indexpage/banner.vue"
+  },
+  "Category": {
+    "description": "Auto imported from components/indexpage/category.vue"
+  },
+  "LazyCategory": {
+    "description": "Auto imported from components/indexpage/category.vue"
+  },
+  "ProductFilter": {
+    "description": "Auto imported from components/category/productFilter.vue"
+  },
+  "LazyProductFilter": {
+    "description": "Auto imported from components/category/productFilter.vue"
+  },
+  "SmallProductCard": {
+    "description": "Auto imported from components/category/smallProductCard.vue"
+  },
+  "LazySmallProductCard": {
+    "description": "Auto imported from components/category/smallProductCard.vue"
+  },
+  "PopupBuy": {
+    "description": "Auto imported from components/product_card/popupBuy.vue"
+  },
+  "LazyPopupBuy": {
+    "description": "Auto imported from components/product_card/popupBuy.vue"
+  },
+  "PopupOk": {
+    "description": "Auto imported from components/product_card/popupOk.vue"
+  },
+  "LazyPopupOk": {
+    "description": "Auto imported from components/product_card/popupOk.vue"
+  }
+}
